@@ -1,0 +1,16 @@
+body{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.box,
+.box-nesting{
+  padding: 15px;
+  background-color: orange;
+  color: white;
+  text-align: center;
+  border: 1px solid white;
+}
+
+.box-nesting{
+  background-color: red;
+}
