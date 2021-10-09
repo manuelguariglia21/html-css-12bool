@@ -1,0 +1,29 @@
+.box{
+  padding: 15px;
+}
+
+.box.black{
+  background-color: #353a34;
+}
+
+.box.white{
+  background-color: white;
+}
+
+.box.orange{
+  background-color: #f38f06;
+}
+
+.box.yellow{
+  background-color: #f3e601;
+}
+
+.box.lightgrey{
+  background-color: #d0d2cf;
+
+}
+
+.box.red{
+  background-color: #e54a38;
+
+}
